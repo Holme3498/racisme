@@ -1,0 +1,38 @@
+.text {
+    padding: 50px;
+    background-color: beige;
+    text-align: center;
+    color: black;
+    margin-top: 3cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    margin-bottom: 5cm;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 20px;
+
+}
+
+.contact {
+    display: flex;
+
+
+    background-color: grey;
+    border: 0cm;
+    padding-bottom: 5px;
+    position:absolute;
+    height: 21.2%;
+    width: 100%;
+}
+
+.contact h3 {
+    margin: 15px;
+}
+
+.kontakt {
+   margin-left: 15px; 
+}
+
+.dev {
+    margin-left: 100px; 
+}
