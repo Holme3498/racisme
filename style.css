@@ -41,13 +41,12 @@ h1 {
 
 .contact {
     display: flex;
-    padding-right: 1090px;
-    margin-left: -8px;
     background-color: grey;
     border: 0cm;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     position:absolute;
     height: 21.2%;
+    width: 100%;
 }
 
 .contact h3 {
